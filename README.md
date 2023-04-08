@@ -1,6 +1,7 @@
 - 👋 Olá, Eu sou Amanda
 - 👀 Estou interessada em aprender programação
 - 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
+- 🧠 Interesse em aprender Python 
 
 ##
 
