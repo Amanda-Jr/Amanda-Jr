@@ -1,5 +1,4 @@
 - 👋 Olá, Eu sou Amanda
-- 👀 Estou interessada em aprender programação
 - 🌱 Atualmente estou aprendendo Java
 - 🧠 Interesse em aprender Testes e Automação
 ##
