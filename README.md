@@ -3,20 +3,7 @@
 - 🧠 Interesse em aprender Testes e Automação
 ##
 
- <div>
-  <a href="https://github.com/Amanda-Jr">
-  <img height="200em" width="400" src="https://github-readme-stats.vercel.app/api?username=Amanda-Jr&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=false"/>
-  <img height="200em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-Jr&layout=compact&langs_count=7&theme=vue-dark"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Amanda-Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Amanda-HTML" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Amanda-Py" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Amanda-Java" height="45" width="65"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-          
-</div>
+ 
 
 ##
   
